@@ -454,3 +454,11 @@ stdout: ``
 stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
 exception: `None`
 --------------------------------
+
+** 2015-04-28 12:38:51.691693 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
