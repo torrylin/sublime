@@ -1,0 +1,456 @@
+
+** 2014-12-26 14:30:09.864892 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2014-12-29 11:31:41.969382 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2014-12-31 15:32:59.752551 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2015-01-03 13:50:59.407886 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2015-01-03 22:10:47.360109 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2015-01-09 14:14:06.062805 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2015-01-09 14:18:43.157305 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2015-01-09 14:21:09.266098 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2015-01-09 14:28:21.981178 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-01-09 16:31:44.289779 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-01-10 09:31:19.706126 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-01-12 09:42:49.508487 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-01-14 10:35:20.709266 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-01-16 10:36:06.320898 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-01-20 10:01:49.746165 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2014-01-01 08:01:02.854577 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-01-23 17:36:17.843451 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-01-25 13:12:32.239131 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-01-27 16:05:33.608169 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-01-28 11:14:25.078443 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-01-29 13:56:13.673746 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-01-29 16:37:50.353236 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-02-01 16:35:50.205333 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-02-02 10:12:20.497920 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-02-02 12:35:13.879506 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-02-05 14:52:57.957076 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-02-09 16:12:02.124310 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-02-13 10:24:17.439283 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-02-24 14:31:27.012985 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-02-28 09:53:51.207872 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-03-02 09:50:49.321846 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-03-05 16:25:29.582114 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-03-11 09:36:51.008451 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-03-16 16:25:47.087541 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-03-16 19:48:03.489919 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-03-23 12:33:49.222621 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-03-24 19:01:11.903707 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-03-26 09:06:37.874756 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-03-26 18:58:55.334258 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-03-27 18:23:18.802374 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-02 11:45:03.254939 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-02 16:00:23.852375 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-07 10:40:14.195277 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-09 12:50:51.701284 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-09 13:38:02.914367 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-10 16:13:57.302282 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-13 11:36:29.909868 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-13 13:21:41.857973 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-13 22:12:02.366507 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-15 14:21:55.408675 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-17 12:51:41.279735 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-17 14:33:11.437142 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-19 18:46:16.376459 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-20 10:04:58.303582 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-20 11:41:06.240161 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-22 00:14:19.158414 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-22 10:39:11.888505 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-25 16:25:19.395585 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-26 10:31:33.437237 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------
+
+** 2015-04-26 21:37:22.196055 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/go/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/local/go/bin/go`
+exception: `None`
+--------------------------------

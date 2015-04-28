@@ -1,0 +1,9 @@
+[
+    { "keys": ["alt+super+k"], "command": "reveal_in_side_bar" },
+    { "keys": ["alt+super+l"], "command": "focus_side_bar" },
+    { "keys": ["alt+super+j"], "command": "js_run" },
+    {
+        "keys": ["alt+s"], "command": "markdown_slideshow",
+        "args": {"theme": "default"}
+    }
+]

@@ -1,0 +1,29 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AndyPython",
+		"BracketHighlighter",
+		"DashDoc",
+		"DocBlockr",
+		"Emmet",
+		"GoSublime",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"LESS",
+		"LiveStyle",
+		"Markdown Preview",
+		"Monokai Extended",
+		"Open Finder",
+		"Package Control",
+		"Python Auto-Complete",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeOnSaveBuild",
+		"SVN",
+		"Terminal",
+		"Theme - Soda"
+	]
+}
