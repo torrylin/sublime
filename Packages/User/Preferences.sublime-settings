@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/User/Monokai (Flake8Lint).tmTheme",
 	"detect_slow_plugins": false,
 	"font_face": "monaco",
 	"font_options":
